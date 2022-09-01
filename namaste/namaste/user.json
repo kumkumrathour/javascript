@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1002,
+"username":"decode",
+"age":30
+    },
+    {
+        "id":1140,
+        "username":"other_user",
+        "age":41
+    }
+]
